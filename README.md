@@ -37,7 +37,7 @@
 30. lcd.setCursor(2,0);                        // LCD coordinates (2,0) 
 31. lcd.print("filter:");                     //Enter "filter:
 32. lcd.setCursor(10,0);                       // LCD coordinates (10,0)
-33. lcd.print(filter_Data);                    //filter_Data값 입력
+33. lcd.print(filter_Data);                    //Enter filter_Data value first
 34. lcd.setCursor(0,1);                           // LCD coordinates (0,1)
 35. lcd.print("nofilter:");                              //Enter "nofilter:"
 36. lcd.setCursor(10,1);                                // LCD coordinates (10,1)
