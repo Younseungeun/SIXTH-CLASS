@@ -3,7 +3,7 @@
 ## TOPIC
 - PM sensor
 ### PM sensor
-![image](https://user-images.githubusercontent.com/102523600/173254259-8b15e9de-9701-4821-a9df-ea4aa819eb33.png)
+![image](https://user-images.githubusercontent.com/102523600/173328846-fb39a456-173d-460f-ac6c-ae6eedc5326e.png)
 ### CODE
 1. #include <PMsensor.h>          //PM sensor header file
 2. #include <Wire.h>              
